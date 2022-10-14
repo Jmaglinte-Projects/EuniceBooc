@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EuniceBooc/static/css/main.4af069e5.css",
+    "main.js": "/EuniceBooc/static/js/main.a9860d9e.js",
+    "static/media/profile.jpg": "/EuniceBooc/static/media/profile.5aecb57cce7f131899ef.jpg",
+    "index.html": "/EuniceBooc/index.html",
+    "main.4af069e5.css.map": "/EuniceBooc/static/css/main.4af069e5.css.map",
+    "main.a9860d9e.js.map": "/EuniceBooc/static/js/main.a9860d9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af069e5.css",
+    "static/js/main.a9860d9e.js"
+  ]
+}
