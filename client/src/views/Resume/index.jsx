@@ -19,7 +19,7 @@ const index = () => {
                     md={4}
                     lg={4}
                     sx={{
-                        background: '#323b4c',
+                        backgroundColor: 'primary.main',
                         color: '#fff',
                         width: '100%',
                         borderRadius: 5,
